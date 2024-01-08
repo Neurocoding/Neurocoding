@@ -1,4 +1,3 @@
-<!--
 Here’s a glimpse into my current journey in the tech world:
 
 - 🔭 I’m currently engaged in an enriching internship at an unpartial financial advisory firm. My role as a 'Financial Advisors Coordinator' involves bridging the gap between financial advisors and their intricate caseloads, ensuring effective coordination and streamlined management.
@@ -14,5 +13,3 @@ Here’s a glimpse into my current journey in the tech world:
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun Fact: When I'm not delving into finance and tech, I'm most likely dabbling with a project that i haven't tried before. Knowledge and experience exploration – is my way of staying balanced and inspired!
-
--->
