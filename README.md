@@ -10,6 +10,4 @@ Here’s a glimpse into my current journey in the tech world:
 
 - 💬 Feel free to ask me about process optimization, bridging the technological aspects in financial services, or any topic where technology meets real-world challenges!
 
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun Fact: When I'm not delving into finance and tech, I'm most likely dabbling with a project that i haven't tried before. Knowledge and experience exploration – is my way of staying balanced and inspired!
