@@ -6,7 +6,7 @@ Here’s a glimpse into my current journey in the tech world:
 
 - 👯 I’m eager to collaborate on projects at the nexus of finance and technology, particularly those that innovate and disrupt traditional business methodologies.
 
-- 🤔 Alwaysopen to mentorship and insights in technology-enhanced financial services, I embrace diverse perspectives and experiences that can shape my professional journey.
+- 🤔 Always open to mentorship and insights in technology-enhanced financial services, I embrace diverse perspectives and experiences that can shape my professional journey.
 
 - 💬 Feel free to ask me about process optimization, bridging the technological aspects in financial services, or any topic where technology meets real-world challenges!
 
